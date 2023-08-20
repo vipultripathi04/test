@@ -1,0 +1,5 @@
+{{#user}}
+Name: Vipul 
+Skills: HTML, CSS, JS, Java , Selenium , Jira  
+Email: tripathivipul540@gmail.com
+{{/user}}
